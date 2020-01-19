@@ -3389,10 +3389,11 @@ body {
   line-height: 40px;
   transition: all .2s;
   color: #ffffff;
-  background: #149dcc;
+  background: #cc2952;
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  border-radius: 0;
 }
 .cid-rNXvnusvDe {
   padding-top: 15px;
